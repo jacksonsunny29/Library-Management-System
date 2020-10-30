@@ -10,8 +10,9 @@ Install python libraries with following commands. <br>
 3. pip3 install pillow<br>
 
 ## Working of the Program
-Step 1: Goto the repository and type the command **python3 main.py**<br>
+Step 1: Navigate the repository using terminal and type the command **python3 main.py**<br>
 Step 2: GUI will be opened with the details of the libary.<br>
 
 Play around with the GUI and make some tweaks to the code.<br>
-Cheers, Jackson!!
+Happy Coding!!<br>
+Made with ❤️ by Jackson Sunny.
