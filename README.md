@@ -1,7 +1,7 @@
 # Library-Management-System
 Class Assignment
 
-## Prerequisite
+## Prerequisites 
 Create a virtual environment with virtualenv.<br>
 Make sure mysql is installed on your local machine.<br>
 Install python libraries with following commands. <br>
@@ -9,7 +9,7 @@ Install python libraries with following commands. <br>
 2. pip3 install mysql-connector-python<br>
 3. pip3 install pillow<br>
 
-## Working of Program
+## Working of the Program
 Step 1: Goto the repository and type the command **python3 main.py**<br>
 Step 2: GUI will be opened with the details of the libary.<br>
 
